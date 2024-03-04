@@ -2,16 +2,16 @@
 ## Introduction:
 In the fast-evolving realm of cloud-native monitoring applications play a pivotal role in ensuring system performance, resource utilization, and reliability. This project delves into the development of a cloud-native monitoring application utilizing HTML, Python Flask, Docker, AWS Kubernetes, and the Psutil library. By harnessing these technologies, we aim to construct a scalable and efficient solution for monitoring system resources within cloud environments.
 
-<img src="Images/icons8-tech-stack-100.png" width="25" height="25"> <p><span style="font-size: larger;">**My Technology Stack**</span></P>
+<p><img src="Images/icons8-tech-stack-100.png" width="25" height="25"> <span style="font-size: larger;">**My Technology Stack**</span></P>
 Here are the technologies I used in this project:
 
 <div style="display: flex; flex-direction: row;">
-<img src="Images/icons8-docker-logo-144.png" width="75" height="75" style="margin-right: 10px;">
-<img src="Images/icons8-kubernetes-144.png" width="75" height="75" style="margin-right: 10px;">
-<img src="Images/icons8-aws-logo-144.png" width="75" height="75" style="margin-right: 10px;">
-<img src="Images/icons8-flask-100.png" width="75" height="75" style="margin-right: 10px;">
-<img src="Images/icons8-python-144.png" width="75" height="75" style="margin-right: 10px;">
-<img src="Images/icons8-html-logo-144.png" width="75" height="75" style="margin-right: 10px;">
+<img src="Images/icons8-docker-logo-144.png" width="75" height="75" style="margin-right: 15px;">
+<img src="Images/icons8-kubernetes-144.png" width="75" height="75" style="margin-right: 15px;">
+<img src="Images/icons8-aws-logo-144.png" width="75" height="75" style="margin-right: 15px;">
+<img src="Images/icons8-flask-100.png" width="75" height="75" style="margin-right: 15px;">
+<img src="Images/icons8-python-144.png" width="75" height="75" style="margin-right: 15px;">
+<img src="Images/icons8-html-logo-144.png" width="75" height="75" style="margin-right: 15px;">
 </div>
 
 - **Defining Requirements:**
