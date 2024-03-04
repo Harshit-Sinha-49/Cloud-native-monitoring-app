@@ -2,7 +2,7 @@
 ## Introduction:
 In the fast-evolving realm of cloud-native monitoring applications play a pivotal role in ensuring system performance, resource utilization, and reliability. This project delves into the development of a cloud-native monitoring application utilizing HTML, Python Flask, Docker, AWS Kubernetes, and the Psutil library. By harnessing these technologies, we aim to construct a scalable and efficient solution for monitoring system resources within cloud environments.
 
-<p><img src="Images/icons8-tech-stack-100.png" width="25" height="25"> <span style="font-size: larger;">**My Technology Stack**</span></P>
+### My Technology Stack
 Here are the technologies I used in this project:
 
 <div style="display: flex; flex-direction: row;">
