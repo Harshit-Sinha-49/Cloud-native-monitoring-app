@@ -5,7 +5,7 @@ In the fast-evolving realm of cloud-native monitoring applications play a pivota
 <img src="path/to/html_logo.png" alt="HTML" width="100" height="100"> # My Technology Stack
 Here are the technologies I used in this project:
 
-<img src="path/to/html_logo.png" alt="HTML" width="100" height="100">
+<img src="Images/icons8-tech-stack-100.png" alt="HTML" width="100" height="100">
 <img src="path/to/css_logo.png" alt="CSS" width="100" height="100">
 <img src="path/to/javascript_logo.png" alt="JavaScript" width="100" height="100">
 
