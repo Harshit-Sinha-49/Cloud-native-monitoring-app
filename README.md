@@ -2,12 +2,15 @@
 ## Introduction:
 In the fast-evolving realm of cloud-native monitoring applications play a pivotal role in ensuring system performance, resource utilization, and reliability. This project delves into the development of a cloud-native monitoring application utilizing HTML, Python Flask, Docker, AWS Kubernetes, and the Psutil library. By harnessing these technologies, we aim to construct a scalable and efficient solution for monitoring system resources within cloud environments.
 
-<img src="path/to/html_logo.png" alt="HTML" width="100" height="100"> # My Technology Stack
+<img src="Images/icons8-tech-stack-100.png" width="50" height="50"> <span style="font-size: larger;">**My Technology Stack**</span>
 Here are the technologies I used in this project:
 
-<img src="Images/icons8-tech-stack-100.png" alt="HTML" width="100" height="100">
-<img src="path/to/css_logo.png" alt="CSS" width="100" height="100">
-<img src="path/to/javascript_logo.png" alt="JavaScript" width="100" height="100">
+<img src="Images/icons8-docker-logo-144.png" width="100" height="100">
+<img src="Images/icons8-kubernetes-144.png" width="100" height="100">
+<img src="Images/icons8-aws-logo-144.png" width="100" height="100">
+<img src="Images/icons8-flask-100.png" width="100" height="100">
+<img src="Images/icons8-python-144.png" width="100" height="100">
+<img src="Images/icons8-html-logo-144.png" width="100" height="100">
 
 - **Defining Requirements:**
 Prior to delving into implementation details, it's crucial to delineate the prerequisites of our monitoring application. This encompasses monitoring various system metrics such as CPU usage, memory utilization, disk I/O, and network traffic. Additionally, we aspire to fashion a user-friendly web interface for real-time visualization of these metrics.
