@@ -34,3 +34,11 @@ In addition to monitoring system resources, we integrate monitoring and logging 
 
 
 Constructing a cloud-native monitoring application employing HTML, Python Flask, Docker, AWS Kubernetes, and the Psutil library furnishes a resilient and scalable solution for monitoring system resources within cloud environments. By leveraging containerization, orchestration, and automation technologies, we can devise a robust monitoring solution that aligns with the demands of contemporary cloud-native architectures.
+
+### Output Images
+Here are some Output images of this project:
+
+<div style="display: flex; flex-direction: row;">
+<img src="Images/Output/Output -1.jpg" width="500" style="margin-right: 50; margin-bottom: 50;">
+<img src="Images/Output/Output -2.jpg" width="500" style="margin-right: 50; margin-bottom: 50;">
+</div>
