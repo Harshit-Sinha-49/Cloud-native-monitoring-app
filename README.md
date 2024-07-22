@@ -39,6 +39,6 @@ Constructing a cloud-native monitoring application employing HTML, Python Flask,
 Here are some Output images of this project:
 
 <div style="display: flex; flex-direction: row;">
-<img src="Images/Output/Output -1.png" width="500" style="margin-right: 50; margin-bottom: 50;">
-<img src="Images/Output/Output -2.png" width="500" style="margin-right: 50; margin-bottom: 50;">
+<img src="Images/Output/Output -1.png" width="750" style="margin-right: 50; margin-bottom: 50;">
+<img src="Images/Output/Output -2.png" width="750" style="margin-right: 50; margin-bottom: 50;">
 </div>
